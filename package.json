@@ -1,0 +1,25 @@
+{
+  "name": "daviesbrackett.com",
+  "version": "1.0.0",
+  "description": "a website for humans",
+  "main": "entry.js",
+  "scripts": {
+    "test": "echo \"welp\""
+  },
+  "resolutions": {
+    "minimist": "1.2.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ddaviesbrackett/daviesbrackett.com.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ddaviesbrackett/daviesbrackett.com/issues"
+  },
+  "homepage": "https://github.com/ddaviesbrackett/daviesbrackett.com#readme",
+  "dependencies": {
+    "node-static": "0.7.11"
+  }
+}
